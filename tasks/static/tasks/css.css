@@ -1,0 +1,9 @@
+.li{
+    list-style: none;
+}
+h1{color: blue;}
+a{
+    color: rgb(225, 0, 255);
+    text-decoration: none;
+    
+}
